@@ -1,29 +1,17 @@
-# LAB 1. Javascript objetos y arrays.
+# LAB 1. Javascript basico
 ## Objetivos
-1. Practicar con objetos y vectores.
-2. Acceder a objetos dentro de arrays
-3. Usar la operacion filter
-4. Usar la operacion map con arrays
-5. Usar la operacion find
-6. Usar la operacione reduce
+1. Practicar con bucles e if
 
 ## Requerimientos.
 1. Fork este repositorio
 2. Clone este repositorio
+3. Tener instalado bun. Ir a https://bun.sh/ si no esta instalado
 
 ## Tareas a realizar
-1. Instalar las dependiencias del proyecto. Despues de hacer git clone
-2. Codificar la funciones en el fichero app.js
-3. Hacer npm run test, cuando se quiera ver si los algoritmos funcionan. npm run test se puede hacer tantas veces como se quiera
-4. La tarea estara acabada cuando todos los test esten pasados.
+1. Instalar las dependiencias del proyecto. Se ha usado bun en vez de nodejs. 
+2. Despues de hacer git clone
+3. Codificar la funciones en el fichero app.js
+4. Hacer npm run test, cuando se quiera ver si los algoritmos funcionan. npm run test se puede hacer tantas veces como se quiera
+5. La tarea estara acabada cuando todos los test esten pasados.
 
-## Recursos.
-1. Javascript arrays y objetos
-2. Javascript filter, map, find, reduce
-
-
-
-
-
-# js_0010_basico_test
-# js_0010_basico_test
+    
